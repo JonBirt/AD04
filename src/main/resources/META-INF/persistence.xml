@@ -23,7 +23,7 @@
                       value="demodb"/>
 
             <property name="jakarta.persistence.jdbc.password"
-                      value="12345"/>
+                      value="New_pass"/>
 
             <property name="hibernate.hbm2ddl.auto"
                       value="validate"/>
